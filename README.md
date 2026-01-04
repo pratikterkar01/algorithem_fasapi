@@ -2,3 +2,4 @@
 2. activate virtual  by venv_name/Scripts/activate
 2. install : - pip install fastapi uvicorn pydantic
 3. for run use program.py
+4. use http://localhost:8000 url
